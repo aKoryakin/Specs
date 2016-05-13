@@ -1,6 +1,6 @@
 {
   "name": "StickerPipe",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "platforms": {
     "ios": "7.0"
   },
@@ -10,7 +10,7 @@
   "authors": "908 Inc.",
   "source": {
     "git": "https://github.com/908Inc/stkiOS.git",
-    "tag": "0.2.5"
+    "tag": "0.2.6"
   },
   "source_files": "StickerPipe/SDK/*.{h,m}",
   "frameworks": "CoreData",
